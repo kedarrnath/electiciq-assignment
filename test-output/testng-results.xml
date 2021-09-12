@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="10" passed="10">
+  <reporter-output>
+  </reporter-output>
+  <suite name="All Test Suite" duration-ms="63069" started-at="2021-09-12T06:35:27Z" finished-at="2021-09-12T06:36:30Z">
+    <groups>
+    </groups>
+    <test name="D:/selenium/eclecticiq" duration-ms="63069" started-at="2021-09-12T06:35:27Z" finished-at="2021-09-12T06:36:30Z">
+      <class name="UITests.CyberAttackTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:UITests.CyberAttackTest@15975490]" name="setup" is-config="true" duration-ms="3466" started-at="2021-09-12T12:05:27Z" finished-at="2021-09-12T12:05:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="A_SpecificFilterWithName()[pri:0, instance:UITests.CyberAttackTest@15975490]" name="A_SpecificFilterWithName" duration-ms="1350" started-at="2021-09-12T12:05:31Z" finished-at="2021-09-12T12:05:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- A_SpecificFilterWithName -->
+        <test-method status="PASS" signature="refresh()[pri:0, instance:UITests.CyberAttackTest@15975490]" name="refresh" is-config="true" duration-ms="361" started-at="2021-09-12T12:05:32Z" finished-at="2021-09-12T12:05:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- refresh -->
+        <test-method status="PASS" signature="B_SpecificFilterWithComplexity()[pri:0, instance:UITests.CyberAttackTest@15975490]" name="B_SpecificFilterWithComplexity" duration-ms="1799" started-at="2021-09-12T12:05:33Z" finished-at="2021-09-12T12:05:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- B_SpecificFilterWithComplexity -->
+        <test-method status="PASS" signature="refresh()[pri:0, instance:UITests.CyberAttackTest@15975490]" name="refresh" is-config="true" duration-ms="304" started-at="2021-09-12T12:05:34Z" finished-at="2021-09-12T12:05:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- refresh -->
+        <test-method status="PASS" signature="C_SetSmallCaseFilterData()[pri:0, instance:UITests.CyberAttackTest@15975490]" name="C_SetSmallCaseFilterData" duration-ms="1274" started-at="2021-09-12T12:05:35Z" finished-at="2021-09-12T12:05:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- C_SetSmallCaseFilterData -->
+        <test-method status="PASS" signature="refresh()[pri:0, instance:UITests.CyberAttackTest@15975490]" name="refresh" is-config="true" duration-ms="299" started-at="2021-09-12T12:05:36Z" finished-at="2021-09-12T12:05:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- refresh -->
+        <test-method status="PASS" signature="D_SetWrongFilterData()[pri:0, instance:UITests.CyberAttackTest@15975490]" name="D_SetWrongFilterData" duration-ms="15197" started-at="2021-09-12T12:05:36Z" finished-at="2021-09-12T12:05:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- D_SetWrongFilterData -->
+        <test-method status="PASS" signature="refresh()[pri:0, instance:UITests.CyberAttackTest@15975490]" name="refresh" is-config="true" duration-ms="427" started-at="2021-09-12T12:05:51Z" finished-at="2021-09-12T12:05:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- refresh -->
+        <test-method status="PASS" signature="E_SpecificFilterWithImpactScore()[pri:0, instance:UITests.CyberAttackTest@15975490]" name="E_SpecificFilterWithImpactScore" duration-ms="16046" started-at="2021-09-12T12:05:52Z" finished-at="2021-09-12T12:06:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- E_SpecificFilterWithImpactScore -->
+        <test-method status="PASS" signature="refresh()[pri:0, instance:UITests.CyberAttackTest@15975490]" name="refresh" is-config="true" duration-ms="425" started-at="2021-09-12T12:06:08Z" finished-at="2021-09-12T12:06:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- refresh -->
+        <test-method status="PASS" signature="F_SpecificFilterWithNoOfCases()[pri:0, instance:UITests.CyberAttackTest@15975490]" name="F_SpecificFilterWithNoOfCases" duration-ms="15977" started-at="2021-09-12T12:06:08Z" finished-at="2021-09-12T12:06:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- F_SpecificFilterWithNoOfCases -->
+        <test-method status="PASS" signature="refresh()[pri:0, instance:UITests.CyberAttackTest@15975490]" name="refresh" is-config="true" duration-ms="443" started-at="2021-09-12T12:06:24Z" finished-at="2021-09-12T12:06:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- refresh -->
+        <test-method status="PASS" signature="G_SortByName()[pri:0, instance:UITests.CyberAttackTest@15975490]" name="G_SortByName" duration-ms="864" started-at="2021-09-12T12:06:25Z" finished-at="2021-09-12T12:06:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- G_SortByName -->
+        <test-method status="PASS" signature="refresh()[pri:0, instance:UITests.CyberAttackTest@15975490]" name="refresh" is-config="true" duration-ms="310" started-at="2021-09-12T12:06:26Z" finished-at="2021-09-12T12:06:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- refresh -->
+        <test-method status="PASS" signature="H_SortByComplexity()[pri:0, instance:UITests.CyberAttackTest@15975490]" name="H_SortByComplexity" duration-ms="966" started-at="2021-09-12T12:06:26Z" finished-at="2021-09-12T12:06:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- H_SortByComplexity -->
+        <test-method status="PASS" signature="refresh()[pri:0, instance:UITests.CyberAttackTest@15975490]" name="refresh" is-config="true" duration-ms="317" started-at="2021-09-12T12:06:27Z" finished-at="2021-09-12T12:06:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- refresh -->
+        <test-method status="PASS" signature="I_SortByImpactScore()[pri:0, instance:UITests.CyberAttackTest@15975490]" name="I_SortByImpactScore" duration-ms="711" started-at="2021-09-12T12:06:27Z" finished-at="2021-09-12T12:06:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- I_SortByImpactScore -->
+        <test-method status="PASS" signature="refresh()[pri:0, instance:UITests.CyberAttackTest@15975490]" name="refresh" is-config="true" duration-ms="12" started-at="2021-09-12T12:06:28Z" finished-at="2021-09-12T12:06:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- refresh -->
+        <test-method status="PASS" signature="J_SortByCases()[pri:0, instance:UITests.CyberAttackTest@15975490]" name="J_SortByCases" duration-ms="1130" started-at="2021-09-12T12:06:28Z" finished-at="2021-09-12T12:06:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- J_SortByCases -->
+        <test-method status="PASS" signature="refresh()[pri:0, instance:UITests.CyberAttackTest@15975490]" name="refresh" is-config="true" duration-ms="329" started-at="2021-09-12T12:06:29Z" finished-at="2021-09-12T12:06:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- refresh -->
+        <test-method status="PASS" signature="close()[pri:0, instance:UITests.CyberAttackTest@15975490]" name="close" is-config="true" duration-ms="108" started-at="2021-09-12T12:06:29Z" finished-at="2021-09-12T12:06:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method status="PASS" signature="end()[pri:0, instance:UITests.CyberAttackTest@15975490]" name="end" is-config="true" duration-ms="912" started-at="2021-09-12T12:06:29Z" finished-at="2021-09-12T12:06:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- end -->
+      </class> <!-- UITests.CyberAttackTest -->
+    </test> <!-- D:/selenium/eclecticiq -->
+  </suite> <!-- All Test Suite -->
+</testng-results>

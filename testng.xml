@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="D:/selenium/eclecticiq">
+        <classes>
+            <class name="UITests.CyberAttackTest">
+                <methods>
+                    <include name="A_SpecificFilterWithName" />
+                    <include name="B_SpecificFilterWithComplexity" />
+                    <include name="C_SetSmallCaseFilterData" />
+                    <include name="D_SetWrongFilterData" />
+                    <include name="E_SpecificFilterWithImpactScore" />
+                    <include name="F_SpecificFilterWithNoOfCases" />
+                    <include name="G_SortByName" />
+                    <include name="H_SortByComplexity" />
+                    <include name="I_SortByImpactScore" />
+                    <include name="J_SortByCases" />
+                </methods>
+            </class>
+        </classes></test></suite>
